@@ -22,13 +22,13 @@
 
 ## 🖼️ Фото від 1-4 завдання:
 
-![alt text](1_first_programus/{090F42FD-4DF8-4DCF-A9B7-185298E107B8}.png)
+![alt text]({090F42FD-4DF8-4DCF-A9B7-185298E107B8}.png)
 
 ## Фото для 5-7 завдання:
-![alt text](1_first_programus/{240CBDB6-F821-4516-A5B6-D44CBD057FE8}.png)
+![alt text]({240CBDB6-F821-4516-A5B6-D44CBD057FE8}.png)
 
 ## Фото для 8-9 завдання:
-![alt text](1_first_programus/{50CE7533-8D08-43D9-94DE-267CDD0936EB}.png)
+![alt text]({50CE7533-8D08-43D9-94DE-267CDD0936EB}.png)
 
 ---
 
