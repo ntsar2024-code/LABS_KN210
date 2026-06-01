@@ -1,0 +1,4 @@
+Bash 
+pip install pipenv
+Bash 
+pipenv install google-adk python-dotenv
